@@ -1,0 +1,19 @@
+User-agent: *
+
+Disallow: /wp-admin
+Disallow: /wp-content/cache
+Disallow: /wp-content/languages
+Disallow: /wp-content/plugins
+Disallow: /wp-content/themes
+Disallow: /wp-content/upgrade
+Disallow: /wp-includes
+
+Disallow: /category/*
+Disallow: /tag/*
+Disallow: /author/*
+
+Host: yachtseamanship.tk
+
+Sitemap: http://yachtseamanship.tk/sitemap_index.xml
+Sitemap: http://yachtseamanship.tk/post-sitemap.xml
+Sitemap: http://yachtseamanship.tk/page-sitemap.xml
